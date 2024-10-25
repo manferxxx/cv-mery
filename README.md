@@ -1,2 +1,2 @@
 # cv-mery
-creación de cv para practicar html
+proyect cv meriyei for SENA 
